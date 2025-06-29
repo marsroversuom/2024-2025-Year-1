@@ -1,6 +1,11 @@
 import board
 import busio
 import adafruit_pca9685
+""" 
+Where does the i2c = busio.I2C(board.SCL, board.SDA) and hat = adafruit_pca9685.PCA9685(i2c) come from? Some sort of explanation or link/resource would be great.
+Moreover, what do they mean? There is an excellant and extensive explanation to how the cycle works down below, but no real mention of what these two lines of code
+mean
+"""
 i2c = busio.I2C(board.SCL, board.SDA)
 hat = adafruit_pca9685.PCA9685(i2c)
 hat.frequency = 5000
