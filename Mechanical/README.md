@@ -4,3 +4,9 @@ https://cad.onshape.com/documents/cab8ffbe7517cfc43ca399af/w/7c17b589a69e159b40b
 
 Our actual design here:
 https://cad.onshape.com/documents/cc182df0a85ecf763fee0218/w/19b5217cdeae15a57923cb5d/e/77400c3c140cfa7d4c75afbb
+
+# Elements Of The Design
+
+1. 6-Wheeled Ackerman Steering
+
+2. Overhead-Suspension
