@@ -1,0 +1,5 @@
+# Notes for future viewers
+1.Fritzing File does not showcase arduinos used extensively in current version of project
+2.Schematic for Arm Wiring is still pending
+3. PWM cycling is used to control servos and motors, moreover servos listed/used in our project have been found to be overpowered for the current
+usecase of the rover.
